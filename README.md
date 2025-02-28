@@ -1,2 +1,2 @@
 # landing-page
-pogolsha constantin
+https://hristos2007.github.io/landing-page/
